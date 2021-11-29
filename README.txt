@@ -1,3 +1,2 @@
 hello, it's Agnes
-Hello, my name is April
-git for the masses
+hello, it's Colleen
